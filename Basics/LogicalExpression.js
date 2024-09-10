@@ -9,7 +9,7 @@ it will not check second condition
 Bellow is the Example
 */
 
-let a = 10; // Variable a and b decleared and value assigned 
+let a = 10; // Variable a and b declared and value assigned 
 let b = 20;
 
 console.log(a!==b && a>b); 

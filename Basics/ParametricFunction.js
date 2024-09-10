@@ -1,4 +1,4 @@
-
+ 
 /*  Difference Parameter Vs Argument
 
 function welcomeMessage(param){ --------> parameter
