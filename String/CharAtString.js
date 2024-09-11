@@ -13,5 +13,5 @@ console.log(str2);
 console.log(str3);
 console.log(str.length); // .length property after the String variable or literal
 // gives the total length of the String by starts as 1 as first character
-console.log(str.charAt(4)); // charAt(4) gives the index with the String, Index String by starts as 0 as first character
+console.log(str.charAt(4)); // charAt(4) gives the index char of the String, Index String by starts as 0 as first character
 console.log(str[4]); // similar process of indexing with square bracket

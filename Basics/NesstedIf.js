@@ -1,3 +1,5 @@
+//Nestted IF condition
+
 let firstRound = true;
 let secondRound = false;
 let thirdRound = false;
