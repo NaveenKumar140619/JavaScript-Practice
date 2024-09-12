@@ -28,3 +28,17 @@ for(i=2;i<=20;i+=2){
     
 }
 
+//Repeating your favorite song thrice with the appropriate message :
+
+for (let i=1; i<=3; i++) {
+    console.log(`Favorite Song Repeat # ${i}`);
+  }
+  
+// What will be the output here?   Will both loops show the same value? 
+
+for (let x = 0; x < 3; x++){
+    console.log( x );
+}
+for (let y = 0; y < 3; ++y){
+    console.log( y );
+}
