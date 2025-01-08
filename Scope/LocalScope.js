@@ -3,11 +3,12 @@
 If we want a variable to be accessible locally in the program we define it:
 
 
-Within a function (Function scope  - var ) 
+1. Within a function (Function scope  - var ) 
 
-2.      Within a block (Block scope - let & const)
+2. Within a block (Block scope - let & const)
 */
 
+//Function Scope
 
 function func(){
     var b = 20;   // scope within the function

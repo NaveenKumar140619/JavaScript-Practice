@@ -14,4 +14,4 @@ else {
     
    // what is the output of ?
 
-  // console.log(5>10 || console.log("Hello"));
+//   console.log(5>10 || console.log("Hello"));

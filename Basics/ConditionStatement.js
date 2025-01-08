@@ -2,10 +2,14 @@
 Ex:- if, if else, elseif, below is the sample
 */
 
-var a = 10
+var a = 10;
+var b = 6;
 
 if(a=10){
     console.log("Ten");
+}
+if (b=6){
+   console.log("Six");
 }
 
 
